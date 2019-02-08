@@ -1,0 +1,107 @@
+                                                       AccessionNumber	22db57eaa6
+                                                       AcquisitionDate	20150619
+                                                     AcquisitionMatrix	[0, 320, 288, 0]
+                                                     AcquisitionNumber	1
+                                                       AcquisitionTime	073642.730000
+                                                             AngioFlag	N
+                                                         BitsAllocated	16
+                                                            BitsStored	12
+                                                               Columns	288
+                                                           ContentDate	20150619
+                                                           ContentTime	073831.187000
+                                                    DeviceSerialNumber	35235
+                                                           EchoNumbers	1
+                                                              EchoTime	137
+                                                       EchoTrainLength	13
+                                                           EthnicGroup	W
+                                                             FlipAngle	150
+                                                   FrameOfReferenceUID	1.3.12.2.1107.5.2.32.35235.1.20150619072658812.0.0.0
+                                                               HighBit	11
+                                                         ImageComments	32 CHANNEL
+                                               ImageOrientationPatient	['0.99974967654512', '-0.0034856343577', '0.02210055657767', '0.00697968294953', '0.98708327617993', '-0.1600558962108']
+                                                  ImagePositionPatient	['-86.677721326653', '-115.00304185148', '-35.134450003386']
+                                                             ImageType	['ORIGINAL', 'PRIMARY', 'M', 'ND', 'NORM']
+                                                         ImagedNucleus	1H
+                                                      ImagingFrequency	123.240642
+                                         InPlanePhaseEncodingDirection	ROW
+                                                  InstanceCreationDate	20150619
+                                                  InstanceCreationTime	073831.187000
+                                                        InstanceNumber	1
+                                                    InstitutionAddress	InstitutionAddress
+                                                       InstitutionName	InstitutionName
+                                           InstitutionalDepartmentName	Department
+                                                         InversionTime	2500
+                                                LargestImagePixelValue	990
+                                                     MRAcquisitionType	2D
+                                                 MagneticFieldStrength	3
+                                                          Manufacturer	SIEMENS
+                                                 ManufacturerModelName	TrioTim
+                                                              Modality	MR
+                                                      NumberOfAverages	1
+                                            NumberOfPhaseEncodingSteps	287
+                                                         OperatorsName	SC
+                                                            PatientAge	002Y
+                                                      PatientBirthDate	20120701
+                                                             PatientID	23e7e84
+                                                           PatientName	anonymized
+                                                       PatientPosition	HFS
+                                                            PatientSex	M
+                                                         PatientWeight	15
+                                               PercentPhaseFieldOfView	90
+                                                       PercentSampling	100
+                                     PerformedProcedureStepDescription	MR Brain
+                                              PerformedProcedureStepID	4101374
+                                       PerformedProcedureStepStartDate	20150619
+                                       PerformedProcedureStepStartTime	071046.593000
+                                               PerformingPhysicianName	AD
+                                             PhotometricInterpretation	MONOCHROME2
+                                                    PhysiciansOfRecord	PhysiciansOfRecord
+                                                        PixelBandwidth	200
+                                                   PixelRepresentation	0
+                                                          PixelSpacing	['0.625', '0.625']
+                                            PositionReferenceIndicator	
+                                                          ProtocolName	AX T2 FLAIR
+                                               ReferencedImageSequence	[(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35235.2015061907285022117992589(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35235.201506190728588845892716(0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+(0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.32.35235.201506190728589169492718]
+                                                ReferringPhysicianName	ReferringPhysicianName
+                                                        RepetitionTime	9000
+                                             RequestAttributesSequence	[(0040, 0007) Scheduled Procedure Step Descriptio LO: 'MR Brain'
+(0040, 0009) Scheduled Procedure Step ID         SH: '4101374'
+(0040, 1001) Requested Procedure ID              SH: '4101374']
+                                         RequestedProcedureDescription	MR Brain
+                                                   RequestingPhysician	RequestingPhysician
+                                                     RequestingService	CHLD_MA
+                                                                  Rows	320
+                                                                   SAR	1.5334840970649
+                                                           SOPClassUID	1.2.840.10008.5.1.4.1.1.4
+                                                        SOPInstanceUID	1.3.12.2.1107.5.2.32.35235.201506190738315935622359
+                                                       SamplesPerPixel	1
+                                                           ScanOptions	IR
+                                                      ScanningSequence	['SE', 'IR']
+                                                          SequenceName	*tir2d1rs13
+                                                       SequenceVariant	['SK', 'SP', 'MP']
+                                                            SeriesDate	20150619
+                                                     SeriesDescription	AX T2 FLAIR
+                                                     SeriesInstanceUID	1.3.12.2.1107.5.2.32.35235.2015061907383112548422361.0.0.0
+                                                          SeriesNumber	7
+                                                            SeriesTime	073831.171000
+                                                         SliceLocation	-51.250323351413
+                                                        SliceThickness	4
+                                               SmallestImagePixelValue	0
+                                                      SoftwareVersions	syngo MR B17
+                                                  SpacingBetweenSlices	4
+                                                           StationName	MRC35235
+                                                         StudyComments	32 CHANNEL
+                                                             StudyDate	20150619
+                                                      StudyDescription	MR-Brain w/o Contrast
+                                                               StudyID	4101374
+                                                      StudyInstanceUID	1.2.840.113845.11.1000000001785349915.20150619061820.7492607
+                                                             StudyTime	071046
+                                                      TransmitCoilName	Body
+                                                 VariableFlipAngleFlag	N
+                                                          WindowCenter	441
+                                          WindowCenterWidthExplanation	Algo1
+                                                           WindowWidth	959
+                                                                  dBdt	0

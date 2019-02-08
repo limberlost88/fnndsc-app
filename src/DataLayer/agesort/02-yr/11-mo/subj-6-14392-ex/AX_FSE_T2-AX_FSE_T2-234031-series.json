@@ -1,0 +1,102 @@
+{
+    "query": {
+        "data": [
+            {
+                "SeriesInstanceUID": {
+                    "value": "1.3.12.2.1107.5.2.32.35235.2015061907435987100822637.0.0.0"
+                },
+                "uid": {
+                    "value": "1.3.12.2.1107.5.2.32.35235.2015061907435987100822637.0.0.0"
+                },
+                "SeriesDescription": {
+                    "value": "AX FSE T2"
+                },
+                "StudyDescription": {
+                    "value": "MR-Brain w/o Contrast"
+                },
+                "ModalitiesInStudy": {
+                    "value": "not found"
+                },
+                "PatientID": {
+                    "value": "23e7e84"
+                },
+                "PatientName": {
+                    "value": "anonymized"
+                },
+                "details": {
+                    "series": {
+                        "uid": "1.3.12.2.1107.5.2.32.35235.2015061907435987100822637.0.0.0",
+                        "description": "AX FSE T2",
+                        "date": "20150619",
+                        "data": [
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0001-1.3.12.2.1107.5.2.32.35235.2015061907435960100422634.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0002-1.3.12.2.1107.5.2.32.35235.2015061907441062808022764.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0003-1.3.12.2.1107.5.2.32.35235.2015061907440023873122647.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0004-1.3.12.2.1107.5.2.32.35235.2015061907441067839222765.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0005-1.3.12.2.1107.5.2.32.35235.2015061907440024077322648.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0006-1.3.12.2.1107.5.2.32.35235.2015061907441250690122768.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0007-1.3.12.2.1107.5.2.32.35235.2015061907440054136822661.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0008-1.3.12.2.1107.5.2.32.35235.2015061907441321525922775.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0009-1.3.12.2.1107.5.2.32.35235.2015061907440055419622662.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0010-1.3.12.2.1107.5.2.32.35235.2015061907441322157922776.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0011-1.3.12.2.1107.5.2.32.35235.2015061907440056531022663.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0012-1.3.12.2.1107.5.2.32.35235.2015061907441322688322777.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0013-1.3.12.2.1107.5.2.32.35235.2015061907440060421822664.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0014-1.3.12.2.1107.5.2.32.35235.2015061907441340930322782.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0015-1.3.12.2.1107.5.2.32.35235.2015061907440061015522665.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0016-1.3.12.2.1107.5.2.32.35235.2015061907441341475122783.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0017-1.3.12.2.1107.5.2.32.35235.2015061907440271917422676.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0018-1.3.12.2.1107.5.2.32.35235.2015061907441375178722786.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0019-1.3.12.2.1107.5.2.32.35235.2015061907440275912522677.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0020-1.3.12.2.1107.5.2.32.35235.2015061907441383543622789.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0021-1.3.12.2.1107.5.2.32.35235.2015061907440352112722680.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0022-1.3.12.2.1107.5.2.32.35235.2015061907441590710722792.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0023-1.3.12.2.1107.5.2.32.35235.201506190744043045722689.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0024-1.3.12.2.1107.5.2.32.35235.2015061907441647916322795.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0025-1.3.12.2.1107.5.2.32.35235.201506190744043817622690.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0026-1.3.12.2.1107.5.2.32.35235.2015061907441651839922798.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0027-1.3.12.2.1107.5.2.32.35235.201506190744047101222692.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0028-1.3.12.2.1107.5.2.32.35235.2015061907441668017322801.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0029-1.3.12.2.1107.5.2.32.35235.201506190744043837522691.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0030-1.3.12.2.1107.5.2.32.35235.2015061907441685399322806.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0031-1.3.12.2.1107.5.2.32.35235.2015061907440423318722695.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0032-1.3.12.2.1107.5.2.32.35235.2015061907441688196022807.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0033-1.3.12.2.1107.5.2.32.35235.2015061907440612660722698.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0034-1.3.12.2.1107.5.2.32.35235.201506190744171528922812.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0035-1.3.12.2.1107.5.2.32.35235.2015061907440640118522703.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0036-1.3.12.2.1107.5.2.32.35235.201506190744172126522813.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0037-1.3.12.2.1107.5.2.32.35235.2015061907440646543022704.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0038-1.3.12.2.1107.5.2.32.35235.2015061907441836361922816.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0039-1.3.12.2.1107.5.2.32.35235.2015061907440669495522709.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0040-1.3.12.2.1107.5.2.32.35235.2015061907441914573122827.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0041-1.3.12.2.1107.5.2.32.35235.2015061907440682964122712.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0042-1.3.12.2.1107.5.2.32.35235.2015061907441915180522828.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0043-1.3.12.2.1107.5.2.32.35235.2015061907440683571222713.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0044-1.3.12.2.1107.5.2.32.35235.2015061907441918634722829.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0045-1.3.12.2.1107.5.2.32.35235.2015061907440718157622716.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0046-1.3.12.2.1107.5.2.32.35235.2015061907441918669022830.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0047-1.3.12.2.1107.5.2.32.35235.2015061907440794034122741.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0048-1.3.12.2.1107.5.2.32.35235.2015061907441919086922831.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0049-1.3.12.2.1107.5.2.32.35235.2015061907440943590622746.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0050-1.3.12.2.1107.5.2.32.35235.2015061907441921068922834.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0051-1.3.12.2.1107.5.2.32.35235.2015061907440944113922747.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0052-1.3.12.2.1107.5.2.32.35235.2015061907441943884122837.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0053-1.3.12.2.1107.5.2.32.35235.2015061907440984134122752.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0054-1.3.12.2.1107.5.2.32.35235.2015061907442036464322840.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0055-1.3.12.2.1107.5.2.32.35235.2015061907440988114922753.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0056-1.3.12.2.1107.5.2.32.35235.2015061907442053083122843.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0057-1.3.12.2.1107.5.2.32.35235.201506190744109181822758.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0058-1.3.12.2.1107.5.2.32.35235.2015061907442055605522846.dcm",
+                            "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/0059-1.3.12.2.1107.5.2.32.35235.201506190744109765822759.dcm"
+                        ],
+                        "files": "59",
+                        "preview": {
+                            "blob": "",
+                            "url": "02-yr/11-mo/fnndsc-project/octanon/anon/subj-6-14392-ex/AX_FSE_T2-AX_FSE_T2-234031/preview.jpg"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
