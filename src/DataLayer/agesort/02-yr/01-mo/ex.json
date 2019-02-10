@@ -2,12 +2,12 @@
     "subj-1-14354-ex": {
         "name": "subj-1-14354-ex",
         "imageLocation": [
-            "././02-yr/01-mo/subj-1-14354-ex/COR_RECON-SAG_MPRAGE_220_FOV-233260/dcm2jpgRaw/middle-COR_RECON-SAG_MPRAGE_220_FOV-233260.jpg",
-            "././02-yr/01-mo/subj-1-14354-ex/AX_T2_FLAIR-AX_T2_FLAIR-233417/dcm2jpgRaw/middle-AX_T2_FLAIR-AX_T2_FLAIR-233417.jpg",
-            "././02-yr/01-mo/subj-1-14354-ex/SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490/dcm2jpgRaw/middle-SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490.jpg",
-            "././02-yr/01-mo/subj-1-14354-ex/COR_FSE_T2-COR_FSE_T2-233385/dcm2jpgRaw/middle-COR_FSE_T2-COR_FSE_T2-233385.jpg",
-            "././02-yr/01-mo/subj-1-14354-ex/AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573/dcm2jpgRaw/middle-AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573.jpg",
-            "././02-yr/01-mo/subj-1-14354-ex/AX_RECON-SAG_MPRAGE_220_FOV-233240/dcm2jpgRaw/middle-AX_RECON-SAG_MPRAGE_220_FOV-233240.jpg"
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/COR_RECON-SAG_MPRAGE_220_FOV-233260/dcm2jpgRaw/middle-COR_RECON-SAG_MPRAGE_220_FOV-233260.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/AX_T2_FLAIR-AX_T2_FLAIR-233417/dcm2jpgRaw/middle-AX_T2_FLAIR-AX_T2_FLAIR-233417.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490/dcm2jpgRaw/middle-SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/COR_FSE_T2-COR_FSE_T2-233385/dcm2jpgRaw/middle-COR_FSE_T2-COR_FSE_T2-233385.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573/dcm2jpgRaw/middle-AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/AX_RECON-SAG_MPRAGE_220_FOV-233240/dcm2jpgRaw/middle-AX_RECON-SAG_MPRAGE_220_FOV-233240.jpg"
         ]
     }
 }

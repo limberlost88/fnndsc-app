@@ -1,0 +1,13 @@
+{
+    ".LINK": {
+        "name": ".LINK",
+        "imageLocation": [
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/COR_RECON-SAG_MPRAGE_220_FOV-233260/dcm2jpgRaw/middle-COR_RECON-SAG_MPRAGE_220_FOV-233260.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/AX_T2_FLAIR-AX_T2_FLAIR-233417/dcm2jpgRaw/middle-AX_T2_FLAIR-AX_T2_FLAIR-233417.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490/dcm2jpgRaw/middle-SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-233490.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/COR_FSE_T2-COR_FSE_T2-233385/dcm2jpgRaw/middle-COR_FSE_T2-COR_FSE_T2-233385.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573/dcm2jpgRaw/middle-AX_TSE_T2__TRIO_PARAMETERS_-AX_TSE_T2__TRIO_PARAMETERS_-233573.jpg",
+            "/root/Desktop/agesort/./02-yr/01-mo/subj-1-14354-ex/.LINK/AX_RECON-SAG_MPRAGE_220_FOV-233240/dcm2jpgRaw/middle-AX_RECON-SAG_MPRAGE_220_FOV-233240.jpg"
+        ]
+    }
+}

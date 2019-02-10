@@ -1,0 +1,13 @@
+{
+    ".LINK": {
+        "name": ".LINK",
+        "imageLocation": [
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/AX_MPRAGE_RECON-SAG_MPRAGE_220_FOV-75896/dcm2jpgRaw/middle-AX_MPRAGE_RECON-SAG_MPRAGE_220_FOV-75896.jpg",
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-75889/dcm2jpgRaw/middle-SAG_MPRAGE_220_FOV-SAG_MPRAGE_220_FOV-75889.jpg",
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/AX_TSE_T2-AX_TSE_T2-75905/dcm2jpgRaw/middle-AX_TSE_T2-AX_TSE_T2-75905.jpg",
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/COR_FSE_T2-COR_FSE_T2-75985/dcm2jpgRaw/middle-COR_FSE_T2-COR_FSE_T2-75985.jpg",
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/AX_T2_FLAIR-AX_T2_FLAIR-75883/dcm2jpgRaw/middle-AX_T2_FLAIR-AX_T2_FLAIR-75883.jpg",
+            "/root/Desktop/agesort/./03-yr/01-mo/subj-2-5918-ex/.LINK/COR_MPRAGE_RECON-SAG_MPRAGE_220_FOV-75880/dcm2jpgRaw/middle-COR_MPRAGE_RECON-SAG_MPRAGE_220_FOV-75880.jpg"
+        ]
+    }
+}
